@@ -1,1 +1,2 @@
-# -marquee-css-animation.
+# Анімація за допомогою тегу marquee та css властивості animation
+# Довгополюк
